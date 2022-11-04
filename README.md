@@ -1,6 +1,6 @@
 # Replacing Bearings in a Milling Machine
 + Simulation of a Reliability Problem. Replacing Bearings in a Milling Machine
-+ Discrete Event System Simulation
++ Discrete Event System Simulation. Author: Jerry Banks
 + A Reliability Problem
 + This example compares two replacement policies for replacing bearings in a milling machine.
 + The example is a Monte Carlo simulation, not a dynamic event-based model, since events and clock times are not included. Each bearing life is randomly generated 15 times and the resulting costs computed.
